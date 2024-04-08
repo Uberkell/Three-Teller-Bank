@@ -1,0 +1,12 @@
+//
+// Created by William on 4/8/2023.
+//
+
+#ifndef PROJECT6_THREE_TELLER_EVENTTYPE_H
+#define PROJECT6_THREE_TELLER_EVENTTYPE_H
+enum class EventType {
+    NONE,
+    ARRIVAL,
+    DEPARTURE
+};
+#endif //PROJECT6_THREE_TELLER_EVENTTYPE_H
